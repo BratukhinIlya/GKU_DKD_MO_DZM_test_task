@@ -1,2 +1,2 @@
-# GKU_DKD_MO_DZM_test_task
-This is test task from medical organization
+# GKU DKD MO DZM test_task
+This is test task from **medical organization**. All tasks you can find in *'Test_task.docx'*. Now, open Excel-file *'test.xlsx'*. You will see the table in Excel and make some tasks. After that, please, open *'DKD_test_task_analys.ipynb'* file, where you can find the second part of test task. There are some typical questions on Python and work with table files (I used pandas to do it)
